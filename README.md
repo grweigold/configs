@@ -1,2 +1,2 @@
-# configs
-Everything needed to get my environment set up
+# home
+For when you throw up on your laptop (again)
